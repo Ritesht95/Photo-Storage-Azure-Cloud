@@ -1,0 +1,7 @@
+/obj
+/properties
+/bin
+/images
+*.config
+*.csproj
+*.csproj.user
